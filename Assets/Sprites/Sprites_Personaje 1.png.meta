@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 0da1290e7423ee64d9a39dcd873b3ace
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 666.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea40f6a41ebcb64fb6cc0e33f14bc79
+      internalID: 820627264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 666.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe38fdff183be849b37e364cfab4c9a
+      internalID: -2019799817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 666.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319d49f324a09344ae947d4a516fa52
+      internalID: 168917926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 666.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e821893a89be904bb846a5afb4bd506
+      internalID: 254646970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 444.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c62e65ab9a7ae49819293e1deb5e38
+      internalID: -1743836039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 444.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09faa2022ae9df94d9755d2300e0b048
+      internalID: 1167900523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 444.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4c72a76272024991abe600a0d3486
+      internalID: 1240748526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_10
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 444.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c358f60d64a2a47a49f33e1d462360
+      internalID: -291581607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 222.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5620fcfc4b1894c45870c8947fdc540d
+      internalID: 1638815475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 222.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021f1af2f64b1f46a46b36cf306314c
+      internalID: -1965734437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 222.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7267ef232ec78a4bbb02be8c5698202
+      internalID: 1276843689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_16
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 222.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b15523cf8d3f44ebf36668076d53aa
+      internalID: -1573076718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4dd3c16a8f4d149b961b2a4a35df2e
+      internalID: 662891656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75da1ffce320d840892b50f1e481762
+      internalID: 487399407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4e564ac7318146959a7e3f8350b40
+      internalID: -743171100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_Personaje 1_22
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0.75
+        width: 222.33333
+        height: 222.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb96a16e216b264fad3afa597b2b766
+      internalID: -1179958238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites_Personaje 1_0: -1423808731
+      Sprites_Personaje 1_1: 820627264
+      Sprites_Personaje 1_10: -291581607
+      Sprites_Personaje 1_11: 491117818
+      Sprites_Personaje 1_12: -1196279012
+      Sprites_Personaje 1_13: 1638815475
+      Sprites_Personaje 1_14: -1965734437
+      Sprites_Personaje 1_15: 1276843689
+      Sprites_Personaje 1_16: -1573076718
+      Sprites_Personaje 1_17: -2132801175
+      Sprites_Personaje 1_18: 625790532
+      Sprites_Personaje 1_19: 662891656
+      Sprites_Personaje 1_2: -2019799817
+      Sprites_Personaje 1_20: 487399407
+      Sprites_Personaje 1_21: -743171100
+      Sprites_Personaje 1_22: -1179958238
+      Sprites_Personaje 1_23: -1166244205
+      Sprites_Personaje 1_3: 168917926
+      Sprites_Personaje 1_4: 254646970
+      Sprites_Personaje 1_5: 1727515560
+      Sprites_Personaje 1_6: 605649343
+      Sprites_Personaje 1_7: -1743836039
+      Sprites_Personaje 1_8: 1167900523
+      Sprites_Personaje 1_9: 1240748526
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
